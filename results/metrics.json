@@ -1,0 +1,15 @@
+{
+  "results": {
+    "GradientBoosting": {
+      "MAE_min": 5.37,
+      "RMSE_min": 6.74,
+      "R2": 0.839
+    },
+    "RandomForest": {
+      "MAE_min": 6.51,
+      "RMSE_min": 8.14,
+      "R2": 0.765
+    }
+  },
+  "best_model": "GradientBoosting"
+}
