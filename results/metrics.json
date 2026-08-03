@@ -3,13 +3,21 @@
     "GradientBoosting": {
       "MAE_min": 5.37,
       "RMSE_min": 6.74,
-      "R2": 0.839
+      "R2": 0.839,
+      "train_time_sec": 1.086
     },
     "RandomForest": {
       "MAE_min": 6.51,
       "RMSE_min": 8.14,
-      "R2": 0.765
+      "R2": 0.765,
+      "train_time_sec": 2.169
+    },
+    "XGBoost": {
+      "MAE_min": 5.28,
+      "RMSE_min": 6.64,
+      "R2": 0.844,
+      "train_time_sec": 0.365
     }
   },
-  "best_model": "GradientBoosting"
+  "best_model": "XGBoost"
 }

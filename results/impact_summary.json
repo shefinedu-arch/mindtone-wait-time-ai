@@ -1,0 +1,7 @@
+{
+  "avg_baseline_wait_min": 26.0,
+  "avg_ai_wait_min": 18.5,
+  "pct_reduction": 28.6,
+  "p90_baseline_wait_min": 49.0,
+  "p90_ai_wait_min": 34.2
+}
