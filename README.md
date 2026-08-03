@@ -1,6 +1,6 @@
 # Mindtone Mental Health Clinic — Outpatient Wait-Time AI
 
-Task 5 Final Project: an AI system to predict and reduce outpatient wait
+Final Project: an AI system to predict and reduce outpatient wait
 times at Mindtone Mental Health Clinic (Psychiatry, Counseling, Addiction
 Therapy).
 
